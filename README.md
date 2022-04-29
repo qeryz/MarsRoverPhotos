@@ -1,4 +1,5 @@
 # Mars Rover Photos
+![](https://github.com/qeryz/MarsRoverPhotos/blob/master/frontend/public/logo192.png)
 
 ## Introduction
 This application's purpose is to display images gathered by NASA's Curiosity, Opportunity, and Spirit rovers on Mars. 
@@ -176,10 +177,11 @@ Finally, the `Content.js` component's job is to dynamically map the results from
 The process is relatively simple, done so as the following:
 ```
 {photoData?.map((post, idx) => (
-  .........
+  ........
     .....
       ...
-      etc
+        ..
+          etc...
  ))}
 ```
 The mapped queried photos are wrapped in a `<Card />` component imported from the MUI library.
