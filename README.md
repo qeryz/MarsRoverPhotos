@@ -189,6 +189,7 @@ The mapped queried photos are wrapped in a `<Card />` component imported from th
 
 This README should now cover the most essential functions and components. Of course, there is a lot more to the app that is not covered here.
 To read and understand more on how the application works, check out the source, where I did my best to comment as much code as I could.
+
 [View the full source](https://github.com/qeryz/MarsRoverPhotos).
 
 
