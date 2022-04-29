@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+  margin: 0;
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+span {
+  font-family: inherit;
+}
+
+p {
+  box-sizing: border-box;
+  font-family: IBM Plex Sans;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: Roboto;
+}
+
