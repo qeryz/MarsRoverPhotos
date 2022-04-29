@@ -1,6 +1,4 @@
 import marsLogo from './logo512.png';
-
-
 import Container from './components/Container/Container';
 
 import './App.css';
